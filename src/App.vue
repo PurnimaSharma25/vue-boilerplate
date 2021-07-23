@@ -1,22 +1,12 @@
 <template>
-  <div>
-     
-    <router-view></router-view>
-  </div>
-   
+  <div></div>
 </template>
 
 <script>
-//import first from "./components/first.vue";
-
-
-export default{
-  name: 'App',
-  
-  components: {
-        // first,
-        // second
-    },
-}
+  export default {
+    name: 'App',
+  }
 </script>
+
+
 
